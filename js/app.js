@@ -15,7 +15,7 @@ let saberGenero = (dato) => {
 
         alert("ingresa un nombre valido en 'ESPAÑOL'")
         return;
-    } if (knOw == "a") {
+    } if (knOw == "a" || knOw == "A") {
         conter.innerHTML += women;
 
     } else {
